@@ -66,7 +66,8 @@ builder.Services.AddOpenTelemetry()
         .AddHttpClientInstrumentation()
         .AddRuntimeInstrumentation()
         .AddProcessInstrumentation()
-        .AddPrometheusExporter());
+        .AddPrometheusExporter()
+        .AddMeter("WeatherForecast"));
 
 var app = builder.Build();
 
