@@ -36,22 +36,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// builder.Services.AddOpenTelemetry()
-//     .WithMetrics(opt =>
-//     {
-//         opt.AddAspNetCoreInstrumentation();
-//         opt.AddProcessInstrumentation();
-//         opt.AddRuntimeInstrumentation();
-//         opt.AddHttpClientInstrumentation();
-//         
-//         opt.AddPrometheusExporter();
-//
-//         opt.AddMeter(
-//             "Microsoft.AspNetCore.Hosting",
-//             "Microsoft.AspNetCore.Server.Kestrel",
-//             "WeatherForecast");
-//     });
-
 builder.Services.AddOpenTelemetry()
     .ConfigureResource(b =>
     {

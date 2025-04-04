@@ -21,13 +21,18 @@ public class WeatherForecastController : ControllerBase
         _meterFactory = meterFactory;
     }
 
-    [HttpGet(Name = "GetWeatherForecast")]
+    
+    
+    [HttpGet]
     public async Task<IActionResult> Get(CancellationToken ct)
+    // public IActionResult Get()
     {
         // Let`s simulate data receiving time.
         var delay = Random.Shared.Next(1000);
-
+        
         await Task.Delay(delay, ct);
+        
+        // Thread.Sleep(delay);
 
         var meter = _meterFactory.Create("WeatherForecast");
 
@@ -35,7 +40,6 @@ public class WeatherForecastController : ControllerBase
         var badCounter = meter.CreateCounter<int>("bad_counter");
         var notFoundCounter = meter.CreateCounter<int>("not_found_counter");
         var errorCounter = meter.CreateCounter<int>("error_counter");
-        
 
         // Simulate some errors
         if (delay > 900)
@@ -53,6 +57,7 @@ public class WeatherForecastController : ControllerBase
             }
 
             errorCounter.Add(1);
+            
             return StatusCode(500);
         }
         

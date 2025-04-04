@@ -11,49 +11,37 @@
   <component name="ChangeListManager">
     <list default="true" id="f26c647f-f2c8-4e32-8b79-d40e53d31c03" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LoggingAndMetricsAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LoggingAndMetricsAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoggingAndMetricsAPI/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LoggingAndMetricsAPI/Controllers/WeatherForecastController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LoggingAndMetricsAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LoggingAndMetricsAPI/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grafana/grafana.db" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/grafana.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/105.js" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/105.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/105.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/105.js.LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/220.js" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/220.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/341.js" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/341.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/543.js" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/543.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/599.js" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/599.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/341.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/341.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/631.js" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/631.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/854.js" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/854.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/944.js" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/944.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/img/grot_err.svg" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/img/grot_err.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/img/grot_err_light.svg" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/img/grot_err_light.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/img/grot_loki.svg" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/img/grot_loki.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/MANIFEST.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/MANIFEST.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/module.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/plugin.json" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-lokiexplore-app/plugin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/944c737f589d02ecf603.svg" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/944c737f589d02ecf603.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/e6c722427cfa8715e19d.svg" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/e6c722427cfa8715e19d.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/e79edcfbe2068fae2364.svg" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/e79edcfbe2068fae2364.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/img/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/MANIFEST.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/MANIFEST.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/module.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/module.js.LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/pages/ProfilesExplorerView/components/SceneByVariableRepeaterGrid/components/SceneEmptyState/ui/img/grot-404-dark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/pages/ProfilesExplorerView/components/SceneByVariableRepeaterGrid/components/SceneEmptyState/ui/img/grot-404-dark.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/pages/ProfilesExplorerView/components/SceneByVariableRepeaterGrid/components/SceneEmptyState/ui/img/grot-404-light.svg" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/pages/ProfilesExplorerView/components/SceneByVariableRepeaterGrid/components/SceneEmptyState/ui/img/grot-404-light.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/module.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/plugin.json" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/plugin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/shared/infrastructure/profile-metrics/profile-metrics.json" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/plugins/grafana-pyroscope-app/shared/infrastructure/profile-metrics/profile-metrics.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8b2f5db4242836c0fa5fc793158b521d6d647c26a3f2c27c871dd41abc94/PrometheusAspNetCoreOptions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/98ab2f223d11b621c83638c84b611df4f1c632ff0a6e96f7375fd17dee030/PrometheusExporterOptions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/c8652999176cab7bbb6ab84be2f445c9fb62bb5ee192ee80919d0b4f789d4bc/PrometheusExporterMeterProviderBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -80,9 +68,9 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "C:\\Users\\Oleg\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Oleg\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\Oleg\\AppData\\Local\\Symbols\\src"
+      "C:\\Users\\user\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\user\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\user\\AppData\\Local\\Symbols\\src"
     ]
   }
 }]]></component>
@@ -187,15 +175,19 @@
       <updated>1743507527183</updated>
       <workItem from="1743507527371" duration="9106000" />
       <workItem from="1743533174239" duration="3275000" />
+      <workItem from="1743752307302" duration="9188000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="x" />
+    <option name="LAST_COMMIT_MESSAGE" value="x" />
   </component>
 </project>
